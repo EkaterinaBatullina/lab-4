@@ -24,7 +24,6 @@ public class Hierarchy {
             list2.add(person);
             list3.add(dog);
         }
-        
         System.out.println(processingAnimals(list1));
         System.out.println(processingPersons(list2));
         System.out.println(processingDogs(list3));
